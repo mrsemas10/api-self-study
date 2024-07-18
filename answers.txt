@@ -1,0 +1,55 @@
+Look at these apis
+
+https://www.omdbapi.com/ :
+
+whether an api key is required:
+yes
+
+What the base url is:
+https://www.omdbapi.com/
+
+One endpoint and an example of the data you would get if you fetch
+become a patron subscription to a patreon site
+
+https://pokeapi.co/ :
+
+whether an api key is required:
+no
+
+What the base url is:
+https://pokeapi.co/
+
+One endpoint and an  example of the data you would get if you fetch
+Berries Berries are small fruits that can provide HP and status condition restoration, stat enhancement, and even damage negation when eaten by Pokémon
+ 
+https://api.nasa.gov/ :
+
+whether an api key is required
+yes
+
+What the base url is
+https://www.nasa.gov
+
+One endpoint and an  example of the data you would get if you fetch:
+get started will generate api key
+
+
+https://open-meteo.com/
+
+
+whether an api key is required
+no
+
+What the base url is: 
+https://open-meteo.com/
+
+One endpoint and an  example of the data you would get if you fetch:
+The API endpoint /v1/forecast accepts a geographical coordinate, a list of weather variables and responds with a JSON hourly weather forecast for 7 days. 
+
+List three resources you found searching about APIs and how to use them. Say how they helped you, if they did, or why they weren’t helpful, if they didn’t 
+
+https://fixer.io/base-url#:~:text=A%20base%20URL%20is%20the%20continuous%20element%20of%20your%20website's%20address : learned the base URL
+
+https://help.ascendix.com/map-search-admin/how-to-check-if-the-google-api-key-is-valid#:~:text=Double%2Dclick%20the%20saved%20HTML,related%20to%20your%20API%20key : api keys
+
+https://codeinstitute.net/global/blog/what-is-an-api-endpoint/ : endpoints
